@@ -1,0 +1,15 @@
+# Positive Thoughts style — "एक रुपये की कहानी" (ORIGINAL) — 9-line Hindi script
+# Same format as the reference (3 men, 1 thing each, 3 fates, moral, A/B/C prompt),
+# different story (a rupee, not a hen). Puck voiceover (parent's browser task, AI Studio).
+# Format: title card first 3s + comment-prompt card at end ONLY — NO subtitles during the story.
+# NOTE: shot timings are RE-TIMED to the real Puck voiceover (48.24 s, 1447 f)
+# with timing.py (Devanagari-patched) against lines-only.txt — see kit/web/story.js CUTS.
+L01: एक रुपये से अमीर कैसे बना जाता है? ये है एक रुपये की कहानी।
+L02: एक दिन एक साधु ने तीन आदमियों को एक-एक रुपया दिया।
+L03: पहला आदमी भूखा था, उसने उसी वक्त रुपये का समोसा खा लिया।
+L04: दूसरा आदमी भी भूखा था, लेकिन उसने रुपया बचा लिया और रोज़ थोड़ा-थोड़ा जोड़ता रहा।
+L05: तीसरे आदमी की सोच अलग थी। उसने रुपये से सुई-धागा खरीदा और कपड़े सिलने लगा।
+L06: कुछ ही महीनों में उसके पास सिलाई मशीन आ गई, फिर एक छोटी सी दुकान।
+L07: और एक दिन उसने पहले आदमी को अपनी दुकान में काम पर रख लिया।
+L08: तीनों को एक ही रुपया मिला था — फर्क रुपये में नहीं था, सोच में था।
+L09: कमेंट में बताओ — आप कौन हो, A, B या C?
